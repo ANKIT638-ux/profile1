@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #A8A4CE;
+}
+h1 {
+    color: white;
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 100px;
+   font-size: 468%;       /*  100%=16px */
+   line-height: 2;
+}
+h3 {
+    color: #371B58;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+h2 {
+    color: #371B58;
+    padding-bottom: 5px;
+    padding-top:3px;
+    font-size: 200%;
+}
+.top-container {
+    background-color: #100720;
+}
+.h_font {
+    font-family: 'Sacramento', cursive;
+}
+p {
+    color: white;
+    font-size: 250%;
+    margin-top: 10px;
+    line-height: 2;
+}
+.bottom-container {
+    background-color: #100720;
+    padding: 50px 0 20px;
+    margin-top: 50px;
+}
+.footer-link {
+    color: #7858A6;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color:#fffaff;
+}
+.skill-row {
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile {
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+}
+.prof_img {
+    width: 25%;
+}
+.cod_img {
+    width: 25%;
+    float: left;
+    margin-right: 10%;
+}
+.dra_img {
+    width: 25%;
+    float: right;
+}
+.skills p {
+    font-size: 1.17em;
+}
+.profile p {
+    font-size: 1.17em;
+}
+hr {
+    border: dotted  #5B4B8A 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+.btn {
+    background: #6b1aad;
+    background-image: -webkit-linear-gradient(top, #6b1aad, #381654);
+    background-image: -moz-linear-gradient(top, #6b1aad, #381654);
+    background-image: -ms-linear-gradient(top, #6b1aad, #381654);
+    background-image: -o-linear-gradient(top, #6b1aad, #381654);
+    background-image: linear-gradient(to bottom, #6b1aad, #381654);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    text-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #fffaff;
+    font-size: 23px;
+    padding: 11px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #5212b2;
+    background-image: -webkit-linear-gradient(top, #5811c2, #8620d9);
+    background-image: -moz-linear-gradient(top, #5811c2, #8620d9);
+    background-image: -ms-linear-gradient(top, #5811c2, #8620d9);
+    background-image: -o-linear-gradient(top, #5811c2, #8620d9);
+    background-image: linear-gradient(to bottom, #5811c2, #8620d9);
+    text-decoration: none;
+  }  
+  .contact-me p {
+    font-size: 1.17em;
+    width: 40%;
+    margin:40px auto 60px;
+  }
+  .bottom-container p {
+    font-size: 1.17em;
+}
